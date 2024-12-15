@@ -22,6 +22,7 @@
   ![Styled-Components](https://img.shields.io/badge/Styled--Components-DB7093?logo=styled-components&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+  ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)
 
 </div>
 
