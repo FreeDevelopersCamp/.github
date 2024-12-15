@@ -20,7 +20,7 @@
 
 </div>
 
-Welcome to the **FreeDevelopersCamp** repository! This project aims to create a learning platform for developers with resources, courses, and a community-driven environment to help learners grow in their careers.
+Welcome to the **FreeDevelopersCamp** organization! This project aims to create a learning platform for developers with resources, courses, and a community-driven environment to help learners grow in their careers.
 
 ## Features
 - Backend built with **NestJS** and **MongoDB**.
