@@ -3,6 +3,7 @@
   ![FreeDevelopersCamp](https://github.com/user-attachments/assets/46912271-59e4-48df-a96c-b66fd7b5348f)
   
   ![npm version](https://img.shields.io/npm/v/npm)
+  ![Yarn version](https://img.shields.io/badge/Yarn-1.22.11-2C8EBB)
   ![pip version](https://img.shields.io/pypi/v/pip)
   [![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/BaraSedih11/freeDevelopersCamp/releases/tag/v1.0.0)
   [![Contributors](https://img.shields.io/github/contributors/freeDevelopersCamp/learning-platform-ui-web)](https://github.com/FreeDevelopersCamp/learning-platform-ui-web/graphs/contributors)
