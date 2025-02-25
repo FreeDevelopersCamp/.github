@@ -33,7 +33,7 @@ Welcome to the **FreeDevelopersCamp** organization! This project aims to create 
 - Backend built with **NestJS** and **MongoDB**.
 - Frontend powered by **React**, **Styled-Components**, and **Tailwind CSS**.
 - Plans to integrate **AI** and **ML** features soon.
-- Mobile version coming soon using **React Native**.
+- Mobile version using **React Native**.
 
 Installation
 1. Clone the backend repository and run the backend server:
